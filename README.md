@@ -1,6 +1,6 @@
 #  Prisoner's Dilemma Simulation in Python
 
-This project simulates the **Prisoner's Dilemma**, a fundamental problem in game theory. It pits different strategies against one another over multiple rounds to compare outcomes based on a configurable payoff matrix.
+This project simulates the **Prisoner's Dilemma**, a core problem in game theory. It uses different strategies against different players for multiple rounds to analyse outcomes based on a recieved payoff matrix.
 
 ##  Project Structure
 
